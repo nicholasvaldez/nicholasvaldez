@@ -34,7 +34,7 @@
 
 - :people_holding_hands: I am open to collaborating on frontend and backend projects and always looking to expand my skills.
 
-- :zap: In my free time, I enjoy working on personal coding projects, producing music wrenching on my car, and hanging with my wife and kiddo.
+- :zap: In my free time, I enjoy working on personal coding projects, producing music, wrenching on my car, and hanging with my wife and kiddo.
 
 - :mailbox: If you would like to contact me, please feel free to reach out via email at nicholastvaldez@gmail.com
 
