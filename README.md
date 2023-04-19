@@ -1,16 +1,63 @@
-### Hi there 👋
 
-<!--
-**nicholasvaldez/nicholasvaldez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 
-Here are some ideas to get you started:
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/nicholasvaldez/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href=mailto:nicholastvaldez@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=nicholasvaldez&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+  Sup!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+---
+
+### :man_technologist: About Me :
+ - :telescope: I am a Full Stack Software Developer with experience in various technologies and frameworks.
+
+- :man_student: I am a graduate of Nashville Software School 
+
+- :seedling: I am a rookie open-source contributor, looking for my first #good-first-issue.
+
+- :people_holding_hands: I am open to collaborating on frontend and backend projects and always looking to expand my skills.
+
+- :zap: In my free time, I enjoy working on personal coding projects, producing music in my bedroom, wrenching on my car, and hanging with my wife and kiddo.
+
+- :mailbox: If you would like to contact me, please feel free to reach out via email at nicholastvaldez@gmail.com
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+ 
+ ### :book: Currently Learning :
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScipt" alt="TypeScript" width="40" height="40"/>&nbsp;
+
+ 
+                                                                                                                                            
+                                                                                                                                       
+
