@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
- - :telescope: I am proficient in building applications using React, TypeScript, Python, and Django as a Full Stack Software Developer.
+ - :telescope: I like building applications using React, TypeScript, Python, and Django as a Full Stack Software Developer.
 
 - :man_student: I am a graduate of Nashville Software School 
 
