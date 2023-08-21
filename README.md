@@ -30,7 +30,7 @@
 
 - :man_student: I am a graduate of Nashville Software School 
 
-- :seedling: I am a rookie open-source contributor, looking for my first #good-first-issue.
+- :seedling: I am a rookie open-source contributor
 
 - :people_holding_hands: I am open to collaborating on frontend and backend projects and always looking to expand my skills.
 
