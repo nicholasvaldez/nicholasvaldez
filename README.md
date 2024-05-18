@@ -26,15 +26,11 @@
 ---
 
 ### :man_technologist: About Me :
- - :telescope: I like building applications using React, TypeScript, Python, and Django as a Full Stack Software Developer.
+ - :telescope: I work as a Full-Stack .NET/ React Application Developer 
 
-- :man_student: I am a graduate of Nashville Software School 
+- :zap: In my free time, I enjoy working on personal coding projects, producing music, wrenching on my car, and hanging with my wife and kids.
 
-- :seedling: I am a rookie open-source contributor
-
-- :people_holding_hands: I am open to collaborating on frontend and backend projects and always looking to expand my skills.
-
-- :zap: In my free time, I enjoy working on personal coding projects, producing music, wrenching on my car, and hanging with my wife and kiddo.
+- 📱 I've recently taken an interest in mobile application development and will begin working on a personal project called Friendli. Stay Tuned! 
 
 - :mailbox: If you would like to contact me, please feel free to reach out via email at nicholastvaldez@gmail.com
 
@@ -44,13 +40,14 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C Sharp" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt="dotnet" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScipt" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
  
@@ -58,8 +55,7 @@
 
 <div>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C Sharp" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt="dotnet" width="40" height="40"/>&nbsp;
+
  
                                                                                                                                             
                                                                                                                                        
