@@ -30,8 +30,6 @@
 
 - :zap: In my free time, I enjoy working on personal coding projects, producing music, wrenching on my car, and hanging with my wife and kids.
 
-- 📱 I've recently taken an interest in mobile application development and will begin working on a personal project called Friendli. Stay Tuned! 
-
 - :mailbox: If you would like to contact me, please feel free to reach out via email at nicholastvaldez@gmail.com
 
 
