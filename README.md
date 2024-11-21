@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
- - :telescope: I work as a Full-Stack .NET/ React Application Developer 
+ - :telescope: I work as a Full-Stack .NET/ React Software Engineer in the Health-Tech industry
 
 - :zap: In my free time, I enjoy working on personal coding projects, producing music, wrenching on my car, and hanging with my wife and kids.
 
